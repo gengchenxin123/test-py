@@ -1,0 +1,11 @@
+,animal,age,visits,priority
+a,cat,2.5,1,true
+b,cat,3.0,3,true
+c,python,0.5,2,false
+d,dog,,3,true
+e,dog,5.0,2,false
+f,cat,2.0,3,false
+g,python,4.5,1,false
+h,cat,,1,true
+i,dog,7.0,2,false
+j,dog,3.0,1,false
